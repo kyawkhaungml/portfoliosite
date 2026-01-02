@@ -1,5 +1,7 @@
 import { Icons } from "@/components/icons";
+import { link } from "fs";
 import { HomeIcon, NotebookIcon } from "lucide-react";
+import { title } from "process";
 
 export const DATA = {
   name: "Kyaw Khaung Myo Lwin",
@@ -218,25 +220,31 @@ export const DATA = {
       image:
         "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-western.png",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
-      links: [],
+      links: ["https://github.com/kyawkhaungml/FinanceLLM"],
     },
     {
       title: "Stock Predictor",
       description:
-        "Developed a mobile application which delivers university campus wide events in real time to all students.",
+        "Developed an stock prediction model which predicts future stock prices based on historical data using machine learning algorithms.",
       image:
         "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/hack-the-north.png",
       mlh: "https://s3.amazonaws.com/logged-assets/trust-badge/2019/mlh-trust-badge-2019-white.svg",
-      links: [],
+      links: ["https://github.com/kyawkhaungml/Stock-Prediction-App"],
     },
     {
       title: "CourseMatch",
       description:
-        "Developed a mobile application which communcicates a victims medical data from inside an ambulance to doctors at hospital.",
+        "Developed a web application which helps students find and match free online courses based on their interests.",
       icon: "public",
       image:
         "https://pub-83c5db439b40468498f97946200806f7.r2.dev/hackline/firstnet.png",
-      links: [],
-    }    
+      links: ["https://github.com/kyawkhaungml/CourseMatch"],
+    },
+    {
+      title: "Mental Health Scheduler",
+      description:
+        "Developed a mental health scheduling app to help BMCC students manage their counseling appointments and reminders based on their class schedule.",
+        links: ["https://github.com/kyawkhaungml/Spring2023_Honors_Project"],
+    }   
   ],
 } as const;
