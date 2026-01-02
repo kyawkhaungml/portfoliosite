@@ -213,8 +213,6 @@ export const DATA = {
   hackathons: [
     {
       title: "FinanceLLM",
-      dates: "November 23rd - 25th, 2018",
-      location: "London, Ontario",
       description:
         "Developed a mobile application which delivered bedtime stories to children using augmented reality.",
       image:
@@ -224,8 +222,6 @@ export const DATA = {
     },
     {
       title: "Stock Predictor",
-      dates: "September 14th - 16th, 2018",
-      location: "Waterloo, Ontario",
       description:
         "Developed a mobile application which delivers university campus wide events in real time to all students.",
       image:
@@ -235,8 +231,6 @@ export const DATA = {
     },
     {
       title: "CourseMatch",
-      dates: "March 23rd - 24th, 2018",
-      location: "San Francisco, California",
       description:
         "Developed a mobile application which communcicates a victims medical data from inside an ambulance to doctors at hospital.",
       icon: "public",
