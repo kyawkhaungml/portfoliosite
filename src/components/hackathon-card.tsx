@@ -5,7 +5,6 @@ import Link from "next/link";
 interface Props {
   title: string;
   description: string;
-  dates: string;
   location: string;
   image?: string;
   links?: readonly {
@@ -18,7 +17,6 @@ interface Props {
 export function HackathonCard({
   title,
   description,
-  dates,
   location,
   image,
   links,
@@ -32,9 +30,6 @@ export function HackathonCard({
         </Avatar>
       </div>
       <div className="flex flex-1 flex-col justify-start gap-1">
-        {dates && (
-          <time className="text-xs text-muted-foreground">{dates}</time>
-        )}
         <h2 className="font-semibold leading-none">{title}</h2>
         {location && (
           <p className="text-sm text-muted-foreground">{location}</p>
