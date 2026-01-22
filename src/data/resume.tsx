@@ -100,7 +100,7 @@ export const DATA = {
       badges: [],
       location: "Remote",
       title: "Financial Data Analyst Intern",
-      logoUrl: "/gka.svg",
+      logoUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9o3pZ4bgXk3FmVlHG-iPAn7qPYolf652NsQ&s",
       start: "Sep 2025",
       end: "Present",
       description:
@@ -112,7 +112,7 @@ export const DATA = {
       href: "https://www.beta.nyc/",
       location: "New York, NY",
       title: "Data Analyst Intern",
-      logoUrl: "/betanyc.png",
+      logoUrl: "https://opendataweek.nyc/wp-content/uploads/2024/08/BetaNYC-Logo.png",
       start: "January 2021",
       end: "April 2021",
       description:
@@ -124,7 +124,7 @@ export const DATA = {
       badges: [],
       location: "Yangon, Myanmar",
       title: "Strategic Research Analyst Intern",
-      logoUrl: "/kkt.png",
+      logoUrl: "https://media.licdn.com/dms/image/v2/C4D0BAQHRowf_Gmwitw/company-logo_200_200/company-logo_200_200/0/1656073989418/koekoetech_logo?e=2147483647&v=beta&t=8VQ8UW6d0MvBFD92tR_7_MNK1oOk-o_GfObnn8gWZuo",
       start: "March 2020",
       end: "June 2020",
       description:
@@ -144,7 +144,7 @@ export const DATA = {
       school: "Borough of Manhattan Community College",
       href: "https://www.bmcc.cuny.edu/",
       degree: "Associate's of Science in Computer Science",
-      logoUrl: "/bmcc.png",
+      logoUrl: "https://bmccprodstroac.blob.core.windows.net/uploads/2022/01/logo-2line.jpg",
       start: "2022",
       end: "2023",
     }
