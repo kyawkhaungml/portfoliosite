@@ -13,7 +13,7 @@ export const DATA = {
     "Data Scientist, Software Engineer, and Entreprenuer in the making. I love building things and finding solutions to help people.",
   summary:
     "I’m a software engineer, data analyst, and data scientist who’s passionate about building and scaling products using data and AI. Right now, I’m working at Global Key Advisors as a Financial Data Analyst Intern, where I analyze corporate datasets and build software and LLM-based tools to extract insights from company filings like SEC reports. Outside of my internship, I’ve built and launched multiple projects — including a LinkedIn Data Analysis Model that processes thousands of 2024 tech job postings to identify the most in-demand skills in the industry. I also created an UberEats/DoorDash web scraper for a restaurant startup, helping them analyze menu data, pricing, and competition more efficiently. My work sits at the intersection of business, engineering, and data. At the core, I’m driven by the idea of using technology and AI to create real impact and move humanity forward in meaningful ways.",
-  avatarUrl: "https://scontent-iad3-1.cdninstagram.com/v/t51.2885-19/616011689_18356328604160433_4450218822147339491_n.jpg?efg=eyJ2ZW5jb2RlX3RhZyI6InByb2ZpbGVfcGljLmRqYW5nby4xMDgwLmMyIn0&_nc_ht=scontent-iad3-1.cdninstagram.com&_nc_cat=109&_nc_oc=Q6cZ2QE8aqBavWdnn-Pc9KhoYDYno1qYZT-wj2DFdY7woTaUVdXYgwZVe9Ru6zil9hLoMVo&_nc_ohc=XwQVyN4AA6sQ7kNvwEfUgVZ&_nc_gid=5iav7t6PMKkaFpexn2DR1Q&edm=AP4sbd4BAAAA&ccb=7-5&oh=00_AfrlPanIBfdm6TwR7x8V3I9hcxn6yQ2GUBF1Y0KRUwIw_w&oe=69781952&_nc_sid=7a9f4b",
+  avatarUrl: "/KKML-IMG.jpg",
   skills: {
     "Languages and Frameworks": [
       "Python",
