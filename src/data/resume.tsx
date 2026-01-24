@@ -6,13 +6,13 @@ import { title } from "process";
 export const DATA = {
   name: "Kyaw Khaung Myo Lwin",
   initials: "KKML",
-  url: "https://dillion.io",
+  url: "https://kylelwin.com",
   location: "New York, NY",
   locationLink: "https://www.google.com/maps/place/new+york,+ny",
   description:
     "Data Scientist, Software Engineer, and Entreprenuer in the making. I love building things and finding solutions to help people.",
   summary:
-    "I’m a software engineer, data analyst, and data scientist who’s passionate about building and scaling products using data and AI. Right now, I’m working at Global Key Advisors as a Financial Data Analyst Intern, where I analyze corporate datasets and build software and LLM-based tools to extract insights from company filings like SEC reports. Outside of my internship, I’ve built and launched multiple projects — including a LinkedIn Data Analysis Model that processes thousands of 2024 tech job postings to identify the most in-demand skills in the industry. I also created an UberEats/DoorDash web scraper for a restaurant startup, helping them analyze menu data, pricing, and competition more efficiently. My work sits at the intersection of business, engineering, and data. At the core, I’m driven by the idea of using technology and AI to create real impact and move humanity forward in meaningful ways.",
+    "I’m a software engineer, data analyst, and data scientist who’s passionate about building and scaling products using data and AI. Right now, I’m working at Global Key Advisors as a Financial Data Analyst Intern, where I analyze corporate datasets and build software and LLM-based tools to extract insights from company filings like SEC reports. Outside of my internship, I’ve built and launched multiple projects — I have built and launched multiple data-driven projects, including the NYC 311 Property Insights web application and a bank loan analysis and prediction model. In addition, I am co-developing a startup with colleagues aimed at serving restaurants and food service businesses. My work sits at the intersection of business, engineering, and data. At the core, I’m driven by the idea of using technology and AI to create real impact and move humanity forward in meaningful ways.",
   avatarUrl: "/KKML-IMG.jpg",
   skills: {
     "Languages and Frameworks": [
@@ -182,7 +182,7 @@ export const DATA = {
     {
       title: "Bank Loan Analysis & Prediction Model",
       href: "https://magicui.design",
-      dates: "June 2023 - Present",
+      dates: "January 2025",
       active: true,
       description:
         "As someone with interest in finance and personal banking, I wanted to explore how machine learning could help predict loan approvals based on customer data. I gathered a dataset of bank customers, cleaned and preprocessed the data using Pandas, and then built classification models with scikit-learn to predict whether a loan would be approved or denied. I evaluated different algorithms, tuned hyperparameters, and visualized the results to understand which factors most influenced loan decisions. This project helped me apply data science techniques to a real-world financial problem while deepening my understanding of ML workflows.",
