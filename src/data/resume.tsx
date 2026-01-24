@@ -164,20 +164,18 @@ export const DATA = {
         "Google Cloud",
       ],
       links: [
-        {
+        /*{
           type: "Website",
           href: "https://chatcollect.com",
           icon: <Icons.globe className="size-3" />,
-        },
+        },*/
         {
           type: "Source",
           href: "https://github.com/kyawkhaungml/w4111-project/tree/main/webserver",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
-      video:
-        "https://pub-83c5db439b40468498f97946200806f7.r2.dev/chat-collect.mp4",
+      image: "/NYC_PROPERTY.png",
     },
     {
       title: "Bank Loan Analysis & Prediction Model",
@@ -195,19 +193,18 @@ export const DATA = {
         "Excel",
       ],
       links: [
-        {
+        /*{
           type: "Website",
           href: "https://magicui.design",
           icon: <Icons.globe className="size-3" />,
-        },
+        },*/
         {
           type: "Source",
           href: "https://github.com/magicuidesign/magicui",
           icon: <Icons.github className="size-3" />,
         },
       ],
-      image: "",
-      video: "https://cdn.magicui.design/bento-grid.mp4",
+      image: "/bank_loan.png",
     }
   ],
 } as const;
