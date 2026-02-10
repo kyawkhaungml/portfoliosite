@@ -152,7 +152,7 @@ export const DATA = {
   projects: [
     {
       title: "NYC 311-Property Insights Web App",
-      href: "https://chatcollect.com",
+      href: "https://github.com/kyawkhaungml/w4111-project/tree/main/webserver",
       dates: "Oct 2025 - Dec 2025",
       active: true,
       description:
