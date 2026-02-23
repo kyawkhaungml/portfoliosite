@@ -12,13 +12,14 @@ export const DATA = {
   description:
     "Data Scientist, Software Engineer, and Entreprenuer in the making. I love building things and finding solutions to help people.",
   summary:
-    "I’m a software engineer, data analyst, and data scientist who’s passionate about building and scaling products using data and AI. Right now, I’m working at Global Key Advisors as a Financial Data Analyst Intern, where I analyze corporate datasets and build software and LLM-based tools to extract insights from company filings like SEC reports. Outside of my internship, I’ve built and launched multiple projects — I have built and launched multiple data-driven projects, including the NYC 311 Property Insights web application and a bank loan analysis and prediction model. In addition, I am co-developing a startup with colleagues aimed at serving restaurants and food service businesses. My work sits at the intersection of business, engineering, and data. At the core, I’m driven by the idea of using technology and AI to create real impact and move humanity forward in meaningful ways.",
+    "Hi! I’m a software engineer, data analyst, and data scientist who’s passionate about building and scaling products using data and AI. Right now, I’m working at Global Key Advisors as a Financial Data Analyst Intern, where I analyze corporate datasets and build software and LLM-based tools to extract insights from company filings like SEC reports. Outside of my internship, I’ve built and launched multiple data-driven projects, including the NYC 311 Property Insights web application and a bank loan analysis and prediction model. In addition, I am co-developing a startup with colleagues aimed at restaurants and food service businesses. My work sits at the intersection of business, engineering, and data. At the core, I’m driven by the idea of using technology and AI to create real impact and move humanity forward in meaningful ways.",
   avatarUrl: "/KKML-IMG.jpg",
   skills: {
     "Languages and Frameworks": [
       "Python",
       "JavaScript",
       "TypeScript",
+      "Java",
       "React",
       "Next.js",
       "Node.js",
@@ -31,6 +32,7 @@ export const DATA = {
       "SQL",
       "PostgreSQL",
       "Power BI",
+      "Tableau",
       "Excel",
       "TensorFlow",
       "scikit-learn",
@@ -38,14 +40,20 @@ export const DATA = {
       "Pandas",
     ],
     "Development Tools": [
+      "Cursor",
+      "VS Code",
+      "Claude Code",
+      "AWS",
+      "Node.js",
       "Git",
       "GitHub",
       "Google Cloud",
       "Streamlit",
       "Jupyter Notebooks",
-      "VS Code",
       "TailwindCSS",
       "Docker",
+      "Firebase",
+      "Vercel",
     ],
   },
   navbar: [
