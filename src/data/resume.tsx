@@ -187,7 +187,7 @@ export const DATA = {
     },
     {
       title: "Bank Loan Analysis & Prediction Model",
-      href: "",
+      href: "https://github.com/kyawkhaungml/BankloanDB/tree/main",
       dates: "January 2025",
       active: true,
       description:
