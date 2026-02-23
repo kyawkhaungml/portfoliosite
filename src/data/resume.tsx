@@ -10,7 +10,7 @@ export const DATA = {
   location: "New York, NY",
   locationLink: "https://www.google.com/maps/place/new+york,+ny",
   description:
-    "Data Scientist, Software Engineer, and Entreprenuer in the making. I love building things and finding solutions to help people.",
+    "Software Engineer, Data Scientist, and Entreprenuer in the making. I love building things and finding solutions to help people.",
   summary:
     "Hi! I’m a software engineer, data analyst, and data scientist who’s passionate about building and scaling products using data and AI. Right now, I’m working at Global Key Advisors as a Financial Data Analyst Intern, where I analyze corporate datasets and build software and LLM-based tools to extract insights from company filings like SEC reports. Outside of my internship, I’ve built and launched multiple data-driven projects, including the NYC 311 Property Insights web application and a bank loan analysis and prediction model. In addition, I am co-developing a startup with colleagues aimed at restaurants and food service businesses. My work sits at the intersection of business, engineering, and data. At the core, I’m driven by the idea of using technology and AI to create real impact and move humanity forward in meaningful ways.",
   avatarUrl: "/KKML-IMG.jpg",
@@ -87,7 +87,7 @@ export const DATA = {
       },
       Youtube: {
         name: "Youtube",
-        url: "https://dub.sh/dillion-youtube",
+        url: "https://www.youtube.com/@KyawKhaungMyoLwin",
         icon: Icons.youtube,
         navbar: true,
       },
@@ -187,7 +187,7 @@ export const DATA = {
     },
     {
       title: "Bank Loan Analysis & Prediction Model",
-      href: "https://magicui.design",
+      href: "",
       dates: "January 2025",
       active: true,
       description:
@@ -208,7 +208,7 @@ export const DATA = {
         },*/
         {
           type: "Source",
-          href: "https://github.com/magicuidesign/magicui",
+          href: "https://github.com/kyawkhaungml/BankloanDB/tree/main",
           icon: <Icons.github className="size-3" />,
         },
       ],
