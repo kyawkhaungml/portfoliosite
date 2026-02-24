@@ -160,7 +160,7 @@ export const DATA = {
   projects: [
     {
       title: "NYC 311-Property Insights Web App",
-      href: "https://github.com/kyawkhaungml/w4111-project/tree/main/webserver",
+      href: "https://github.com/kyawkhaungml/NYC-311-Property-Insights-Web-App/tree/2773fc53342c6d466f4dfa50d96398e2af8053e7/webserver",
       dates: "Oct 2025 - Dec 2025",
       active: true,
       description:
@@ -179,7 +179,7 @@ export const DATA = {
         },*/
         {
           type: "Source",
-          href: "https://github.com/kyawkhaungml/w4111-project/tree/main/webserver",
+          href: "https://github.com/kyawkhaungml/NYC-311-Property-Insights-Web-App/tree/2773fc53342c6d466f4dfa50d96398e2af8053e7/webserver",
           icon: <Icons.github className="size-3" />,
         },
       ],
