@@ -159,6 +159,35 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "Khant Films Videography Portfolio Website",
+      href: "https://www.khantfilms.com/",
+      dates: "January 2025",
+      active: true,
+      description:
+        "This is the freelance  videography portfolio website for a professional videographer. We worked closely to pick the right design and features to showcase his work and services. I built with Next.js and TailwindCSS while using CapCut to edit the main video on the homepage. We the finalized photos and videos for each portfolio section and hosted it on Vercel.",
+      technologies: [
+        "Claude Code",
+        "Next.js",
+        "TailwindCSS",
+        "Node.js",
+        "Express",
+        "Vercel",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://www.khantfilms.com/",
+          icon: <Icons.globe className="size-3" />,
+        },
+        {
+          type: "Source",
+          href: "https://github.com/kyawkhaungml/khantfilms.git",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/khantfilms.jpg",
+    },
+    {
       title: "NYC 311-Property Insights Web App",
       href: "https://github.com/kyawkhaungml/NYC-311-Property-Insights-Web-App/tree/2773fc53342c6d466f4dfa50d96398e2af8053e7/webserver",
       dates: "Oct 2025 - Dec 2025",
@@ -214,5 +243,6 @@ export const DATA = {
       ],
       image: "/bank_loan.png",
     }
+    
   ],
 } as const;
