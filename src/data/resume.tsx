@@ -161,7 +161,7 @@ export const DATA = {
     {
       title: "Khant Films Videography Portfolio Website",
       href: "https://www.khantfilms.com/",
-      dates: "January 2025",
+      dates: "Feb 2026",
       active: true,
       description:
         "This is the freelance  videography portfolio website for a professional videographer. We worked closely to pick the right design and features to showcase his work and services. I built with Next.js and TailwindCSS while using CapCut to edit the main video on the homepage. We then finalized photos and videos for each portfolio section and hosted it on Vercel.",
@@ -217,7 +217,7 @@ export const DATA = {
     {
       title: "Bank Loan Analysis & Prediction Model",
       href: "https://github.com/kyawkhaungml/BankloanDB/tree/main",
-      dates: "January 2025",
+      dates: "January 2026",
       active: true,
       description:
         "As someone with interest in finance and personal banking, I wanted to explore how machine learning could help predict loan approvals based on customer data. I gathered a dataset of bank customers, cleaned and preprocessed the data using Pandas, and then built classification models with scikit-learn to predict whether a loan would be approved or denied. I evaluated different algorithms, tuned hyperparameters, and visualized the results to understand which factors most influenced loan decisions. This project helped me apply data science techniques to a real-world financial problem while deepening my understanding of ML workflows.",
