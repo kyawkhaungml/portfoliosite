@@ -164,7 +164,7 @@ export const DATA = {
       dates: "January 2025",
       active: true,
       description:
-        "This is the freelance  videography portfolio website for a professional videographer. We worked closely to pick the right design and features to showcase his work and services. I built with Next.js and TailwindCSS while using CapCut to edit the main video on the homepage. We the finalized photos and videos for each portfolio section and hosted it on Vercel.",
+        "This is the freelance  videography portfolio website for a professional videographer. We worked closely to pick the right design and features to showcase his work and services. I built with Next.js and TailwindCSS while using CapCut to edit the main video on the homepage. We then finalized photos and videos for each portfolio section and hosted it on Vercel.",
       technologies: [
         "Claude Code",
         "Next.js",
