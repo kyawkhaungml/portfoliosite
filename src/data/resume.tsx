@@ -242,7 +242,32 @@ export const DATA = {
         },
       ],
       image: "/bank_loan.png",
-    }
+    },
+    {
+      title: "NYC Restaurant Scoring Model",
+      href: "https://github.com/kyawkhaungml/NYC-Restaurant-Scoring-Model.git",
+      description:
+        "As part of building a data-driven restaurant discovery startup, I wanted to understand which restaurants in NYC's East Village were genuinely buzzing — not just highly rated, but actively talked about across multiple platforms. I built a multi-source data pipeline in Python that pulls restaurant data from Google Places, Yelp, and Reddit, then combines them into a single composite buzz score using weighted, normalized signals. The score factors in ratings, review volume, and organic community mentions. I also built an interactive Plotly dashboard in a Jupyter notebook to visualize the rankings, rating vs. popularity breakdowns, and price tier analysis — designed to be shared with the team and presented to potential investors as a clean, code-free HTML report.",    
+      dates: "March 2026",
+      active: true,
+      technologies: [
+        "Claude Code",
+        "Python",
+        "Google Cloud",
+        "Reddit PRAW",
+        "Yelp Fusion API",
+        "Google Places API",
+        "Plotly",
+      ],
+      links: [
+        {
+          type: "Source",
+          href: "https://github.com/kyawkhaungml/NYC-Restaurant-Scoring-Model.git",
+          icon: <Icons.github className="size-3" />,
+        },
+      ],
+      image: "/restaurant_scoring.png",
+   }
     
   ],
 } as const;
