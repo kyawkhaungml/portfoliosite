@@ -121,8 +121,8 @@ export const DATA = {
       location: "New York, NY",
       title: "Data Analyst Intern",
       logoUrl: "https://opendataweek.nyc/wp-content/uploads/2024/08/BetaNYC-Logo.png",
-      start: "January 2021",
-      end: "April 2021",
+      start: "Jan 2021",
+      end: "Apr 2021",
       description:
         "Collected and validated 400+ civic infrastructure data points per day using OpenStreetMap, Overpass API, and geospatial survey tools to map assets across Brooklyn CD1. Designed an open-source data collection methodology and playbook adopted by 15–20 partner organizations, standardizing validation workflows for civic-tech initiatives. Led a multi-organization workshop to train stakeholders on participatory mapping and spatial data collection techniques.",
     },
@@ -133,8 +133,8 @@ export const DATA = {
       location: "Yangon, Myanmar",
       title: "Strategic Research Analyst Intern",
       logoUrl: "https://media.licdn.com/dms/image/v2/C4D0BAQHRowf_Gmwitw/company-logo_200_200/company-logo_200_200/0/1656073989418/koekoetech_logo?e=2147483647&v=beta&t=8VQ8UW6d0MvBFD92tR_7_MNK1oOk-o_GfObnn8gWZuo",
-      start: "March 2020",
-      end: "June 2020",
+      start: "Mar 2020",
+      end: "Jun 2020",
       description:
         "Performed due diligence on 10+ organizations weekly, analyzing revenue models, capital capacity, and operational stability to identify high-value grant and partnership opportunities. Applied a custom scoring framework to evaluate funding sources, driving a 30% expansion of the funding pipeline and achieving a 40% qualification rate. Analyzed and refined 5-10 grant proposals per week, increasing approval likelihood through data-driven recommendations and competitive insight.",
     }
@@ -217,7 +217,7 @@ export const DATA = {
     {
       title: "Bank Loan Analysis & Prediction Model",
       href: "https://github.com/kyawkhaungml/BankloanDB/tree/main",
-      dates: "January 2026",
+      dates: "Jan 2026",
       active: true,
       description:
         "As someone with interest in finance and personal banking, I wanted to explore how machine learning could help predict loan approvals based on customer data. I gathered a dataset of bank customers, cleaned and preprocessed the data using Pandas, and then built classification models with scikit-learn to predict whether a loan would be approved or denied. I evaluated different algorithms, tuned hyperparameters, and visualized the results to understand which factors most influenced loan decisions. This project helped me apply data science techniques to a real-world financial problem while deepening my understanding of ML workflows.",
@@ -248,7 +248,7 @@ export const DATA = {
       href: "https://github.com/kyawkhaungml/NYC-Restaurant-Scoring-Model.git",
       description:
         "As part of building a data-driven restaurant discovery startup, I wanted to understand which restaurants in NYC's East Village were genuinely buzzing — not just highly rated, but actively talked about across multiple platforms. I built a multi-source data pipeline in Python that pulls restaurant data from Google Places, Yelp, and Reddit, then combines them into a single composite buzz score using weighted, normalized signals. The score factors in ratings, review volume, and organic community mentions. I also built an interactive Plotly dashboard in a Jupyter notebook to visualize the rankings, rating vs. popularity breakdowns, and price tier analysis — designed to be shared with the team and presented to potential investors as a clean, code-free HTML report.",    
-      dates: "March 2026",
+      dates: "Mar 2026",
       active: true,
       technologies: [
         "Claude Code",
