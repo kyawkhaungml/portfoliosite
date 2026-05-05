@@ -103,6 +103,18 @@ export const DATA = {
 
   work: [
     {
+      company: "NiBL",
+      href: "https://nibl.food",
+      badges: [],
+      location: "New York, NY",
+      title: "Software Engineer & Founder",
+      logoUrl: "/nibl_icon.png",
+      start: "Mar 2026",
+      end: "Present",
+      description:
+        "Architected and deployed a production full-stack food delivery platform using Next.js 14, TypeScript, Express.js, and PostgreSQL, structuring a multi-app monorepo (consumer, driver, and admin web apps) with shared typed packages across Vercel and Railway deployments. Engineered a RESTful Node.js API with geolocation-based restaurant discovery (Haversine distance ranking), Stripe payment integration, JWT and opaque bearer token authentication, real-time GPS driver tracking, and end-to-end order lifecycle management. Built automated Python ETL pipelines using Playwright network interception to reverse-engineer undocumented third-party restaurant APIs (TapMango, Chopt), loading 200+ menu items with nested modifier groups, images, and pricing into a normalized PostgreSQL database. Designed a normalized relational PostgreSQL schema across 15+ tables (restaurants, menus, modifiers, orders, drivers, sessions) with JSONB storage for dynamic order customizations and runtime UUID-to-name resolution for driver-facing modifier display. Developed a real-time driver web application supporting GPS location streaming, order claim/decline workflows, and per-item modifier display; implemented consumer cart state management with Zustand, guest checkout, address geocoding, and SMS delivery notifications.",
+    },
+    {
       company: "Global Key Advisors",
       href: "https://gkadvisors.com/",
       badges: [],
