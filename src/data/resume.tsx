@@ -111,8 +111,13 @@ export const DATA = {
       logoUrl: "/nibl_icon.png",
       start: "Mar 2026",
       end: "Present",
-      description:
-        "Architected and deployed a production full-stack food delivery platform using Next.js 14, TypeScript, Express.js, and PostgreSQL, structuring a multi-app monorepo (consumer, driver, and admin web apps) with shared typed packages across Vercel and Railway deployments. Engineered a RESTful Node.js API with geolocation-based restaurant discovery (Haversine distance ranking), Stripe payment integration, JWT and opaque bearer token authentication, real-time GPS driver tracking, and end-to-end order lifecycle management. Built automated Python ETL pipelines using Playwright network interception to reverse-engineer undocumented third-party restaurant APIs (TapMango, Chopt), loading 200+ menu items with nested modifier groups, images, and pricing into a normalized PostgreSQL database. Designed a normalized relational PostgreSQL schema across 15+ tables (restaurants, menus, modifiers, orders, drivers, sessions) with JSONB storage for dynamic order customizations and runtime UUID-to-name resolution for driver-facing modifier display. Developed a real-time driver web application supporting GPS location streaming, order claim/decline workflows, and per-item modifier display; implemented consumer cart state management with Zustand, guest checkout, address geocoding, and SMS delivery notifications.",
+      description: [
+        "Architected and deployed a production full-stack food delivery platform using Next.js 14, TypeScript, Express.js, and PostgreSQL, structuring a multi-app monorepo (consumer, driver, and admin web apps) with shared typed packages across Vercel and Railway deployments.",
+        "Engineered a RESTful Node.js API with geolocation-based restaurant discovery (Haversine distance ranking), Stripe payment integration, JWT and opaque bearer token authentication, real-time GPS driver tracking, and end-to-end order lifecycle management.",
+        "Built automated Python ETL pipelines using Playwright network interception to reverse-engineer undocumented third-party restaurant APIs (TapMango, Chopt), loading 200+ menu items with nested modifier groups, images, and pricing into a normalized PostgreSQL database.",
+        "Designed a normalized relational PostgreSQL schema across 15+ tables (restaurants, menus, modifiers, orders, drivers, sessions) with JSONB storage for dynamic order customizations and runtime UUID-to-name resolution for driver-facing modifier display.",
+        "Developed a real-time driver web application supporting GPS location streaming, order claim/decline workflows, and per-item modifier display; implemented consumer cart state management with Zustand, guest checkout, address geocoding, and SMS delivery notifications.",
+      ],
     },
     {
       company: "Global Key Advisors",
@@ -123,8 +128,11 @@ export const DATA = {
       logoUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9o3pZ4bgXk3FmVlHG-iPAn7qPYolf652NsQ&s",
       start: "Sep 2025",
       end: "Present",
-      description:
-        "Developed a Finance LLM pipeline using Python and Ollama to extract structured insights from large SEC filings, generating analyst-ready tabular datasets. Automated company-scoring workflows by evaluating firms across 10 quantitative categories to support investment modeling and due-diligence processes. Built data-processing scripts to clean, transform, and export outputs into CSVs for downstream analytics.",
+      description: [
+        "Developed a Finance LLM pipeline using Python and Ollama to extract structured insights from large SEC filings, generating analyst-ready tabular datasets.",
+        "Automated company-scoring workflows by evaluating firms across 10 quantitative categories to support investment modeling and due-diligence processes.",
+        "Built data-processing scripts to clean, transform, and export outputs into CSVs for downstream analytics.",
+      ],
     },
     {
       company: "BetaNYC",
@@ -135,8 +143,11 @@ export const DATA = {
       logoUrl: "https://opendataweek.nyc/wp-content/uploads/2024/08/BetaNYC-Logo.png",
       start: "Jan 2021",
       end: "Apr 2021",
-      description:
-        "Collected and validated 400+ civic infrastructure data points per day using OpenStreetMap, Overpass API, and geospatial survey tools to map assets across Brooklyn CD1. Designed an open-source data collection methodology and playbook adopted by 15–20 partner organizations, standardizing validation workflows for civic-tech initiatives. Led a multi-organization workshop to train stakeholders on participatory mapping and spatial data collection techniques.",
+      description: [
+        "Collected and validated 400+ civic infrastructure data points per day using OpenStreetMap, Overpass API, and geospatial survey tools to map assets across Brooklyn CD1.",
+        "Designed an open-source data collection methodology and playbook adopted by 15–20 partner organizations, standardizing validation workflows for civic-tech initiatives.",
+        "Led a multi-organization workshop to train stakeholders on participatory mapping and spatial data collection techniques.",
+      ],
     },
     {
       company: "Koe Koe Tech",
@@ -147,8 +158,11 @@ export const DATA = {
       logoUrl: "https://media.licdn.com/dms/image/v2/C4D0BAQHRowf_Gmwitw/company-logo_200_200/company-logo_200_200/0/1656073989418/koekoetech_logo?e=2147483647&v=beta&t=8VQ8UW6d0MvBFD92tR_7_MNK1oOk-o_GfObnn8gWZuo",
       start: "Mar 2020",
       end: "Jun 2020",
-      description:
-        "Performed due diligence on 10+ organizations weekly, analyzing revenue models, capital capacity, and operational stability to identify high-value grant and partnership opportunities. Applied a custom scoring framework to evaluate funding sources, driving a 30% expansion of the funding pipeline and achieving a 40% qualification rate. Analyzed and refined 5-10 grant proposals per week, increasing approval likelihood through data-driven recommendations and competitive insight.",
+      description: [
+        "Performed due diligence on 10+ organizations weekly, analyzing revenue models, capital capacity, and operational stability to identify high-value grant and partnership opportunities.",
+        "Applied a custom scoring framework to evaluate funding sources, driving a 30% expansion of the funding pipeline and achieving a 40% qualification rate.",
+        "Analyzed and refined 5-10 grant proposals per week, increasing approval likelihood through data-driven recommendations and competitive insight.",
+      ],
     }
   ],
   education: [
