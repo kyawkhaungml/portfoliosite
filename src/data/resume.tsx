@@ -185,6 +185,31 @@ export const DATA = {
   ],
   projects: [
     {
+      title: "NiBL - Food Delivery Platform",
+      href: "https://nibl.food",
+      dates: "Mar 2026 - Present",
+      active: true,
+      description:
+        "As part of building NiBL, a restaurant-focused delivery startup, I designed a scalable, real-time food delivery platform architecture tailored for the U.S. market. I structured the system around a microservices-based backend with an API Gateway handling routing, authentication, and rate limiting, and defined core services for users, restaurants, orders, payments, driver dispatch, and real-time tracking. I implemented a geospatially-aware driver matching system using Redis to efficiently assign orders based on proximity, reliability, and load, while modeling the order lifecycle as an event-driven state machine to ensure consistency across services. To support live tracking, I designed a high-frequency GPS ingestion pipeline with optimized protocols (SSE for customers, WebSockets for drivers) and a tiered storage strategy for performance and cost efficiency. The architecture leverages PostgreSQL for transactional consistency, Redis for caching and geo queries, and Kafka for asynchronous event streaming, with containerized deployment on Kubernetes to enable autoscaling and fault tolerance.",
+      technologies: [
+        "Next.js 14",
+        "TypeScript",
+        "Express.js",
+        "PostgreSQL",
+        "Stripe",
+        "Tailwind CSS",
+        "Vercel",
+      ],
+      links: [
+        {
+          type: "Website",
+          href: "https://nibl.food",
+          icon: <Icons.globe className="size-3" />,
+        },
+      ],
+      image: "/nibl_icon.png",
+    },
+    {
       title: "Khant Films Videography Portfolio Website",
       href: "https://www.khantfilms.com/",
       dates: "Feb 2026",
