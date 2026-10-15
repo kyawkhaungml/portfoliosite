@@ -10,9 +10,9 @@ export const DATA = {
   location: "New York, NY",
   locationLink: "https://www.google.com/maps/place/new+york,+ny",
   description:
-    "Software Engineer, Data Scientist, and Entreprenuer in the making. I love building things and finding solutions to help people.",
+    "Software Engineer, Forward Deployed Engineer, and Entreprenuer in the making. I love building things and finding solutions to help people.",
   summary:
-    "Hi! I’m a software engineer, data scientist, and an entrepreneur who’s passionate about building and scaling products using data and AI. Right now, I’m working at Global Key Advisors as a Software Engineer Intern, where I analyze corporate datasets and build software and LLM-based tools to extract insights from company filings like SEC reports. Outside of my internship, I’ve built and launched multiple data-driven projects, including the NYC 311 Property Insights web application and a bank loan analysis and prediction model. In addition, I am co-developing a startup with colleagues aimed at restaurants and food service businesses. My work sits at the intersection of business, engineering, and data. At the core, I’m driven by the idea of using technology and AI to create real impact and move humanity forward in meaningful ways.",
+    "Hi! I’m a software engineer, entrepreneur, and aspiring Forward Deployed Engineer passionate about building and scaling products with data and AI. I co-founded NiBL, a food delivery startup in NYC, where I built the production stack, including the consumer app, driver portal, real-time GPS tracking, automated ETL pipelines, and an AI-powered intelligence platform for brand partners.\n\nI enjoy working directly with customers, understanding their unique challenges, and building tailored technical solutions to solve them. Ultimately, I’m driven by the belief that technology and AI can make a meaningful impact on the world and help move humanity forward.",
   avatarUrl: "/KKML-IMG.jpg",
   skills: {
     "Languages and Frameworks": [
