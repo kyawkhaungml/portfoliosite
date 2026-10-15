@@ -1,6 +1,6 @@
 import { Icons } from "@/components/icons";
 import { link } from "fs";
-import { HomeIcon, NotebookIcon } from "lucide-react";
+import { FileTextIcon, HomeIcon, NotebookIcon } from "lucide-react";
 import { title } from "process";
 
 export const DATA = {
@@ -59,6 +59,7 @@ export const DATA = {
   navbar: [
     { href: "/", icon: HomeIcon, label: "Home" },
     { href: "/blog", icon: NotebookIcon, label: "Blog" },
+    { href: "/resume.pdf", icon: FileTextIcon, label: "Resume", external: true },
   ],
   contact: {
     email: "kyawkhaung.ml01@gmail.com",
