@@ -90,7 +90,7 @@ export const DATA = {
         name: "Youtube",
         url: "https://www.youtube.com/@KyawKhaungMyoLwin",
         icon: Icons.youtube,
-        navbar: true,
+        navbar: false,
       },
       email: {
         name: "Send Email",
@@ -111,7 +111,7 @@ export const DATA = {
       title: "Software Engineer & Founder",
       logoUrl: "/nibl_icon.png",
       start: "Mar 2026",
-      end: "Present",
+      end: "Jul 2026",
       description: [
         "Architected and deployed a production full-stack food delivery platform using Next.js 14, TypeScript, Express.js, and PostgreSQL, structuring a multi-app monorepo (consumer, driver, and admin web apps) with shared typed packages across Vercel and Railway deployments.",
         "Engineered a RESTful Node.js API with geolocation-based restaurant discovery (Haversine distance ranking), Stripe payment integration, JWT and opaque bearer token authentication, real-time GPS driver tracking, and end-to-end order lifecycle management.",
@@ -128,7 +128,7 @@ export const DATA = {
       title: "Software Engineer Intern",
       logoUrl: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9o3pZ4bgXk3FmVlHG-iPAn7qPYolf652NsQ&s",
       start: "Sep 2025",
-      end: "Present",
+      end: "Apr 2026",
       description: [
         "Developed a Finance LLM pipeline using Python and Ollama to extract structured insights from large SEC filings, generating analyst-ready tabular datasets.",
         "Automated company-scoring workflows by evaluating firms across 10 quantitative categories to support investment modeling and due-diligence processes.",
